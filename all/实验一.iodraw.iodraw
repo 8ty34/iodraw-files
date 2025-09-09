@@ -75,7 +75,7 @@
         <mxCell id="XH-hfQVk7WOKMJRXi7Rm-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XH-hfQVk7WOKMJRXi7Rm-22" target="XH-hfQVk7WOKMJRXi7Rm-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XH-hfQVk7WOKMJRXi7Rm-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XH-hfQVk7WOKMJRXi7Rm-22" value="牛顿计算模块更新位置速度" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="357.5" y="660" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XH-hfQVk7WOKMJRXi7Rm-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XH-hfQVk7WOKMJRXi7Rm-24" target="XH-hfQVk7WOKMJRXi7Rm-26">
