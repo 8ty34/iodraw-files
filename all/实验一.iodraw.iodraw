@@ -33,11 +33,17 @@
         <mxCell id="XH-hfQVk7WOKMJRXi7Rm-6" value="判断是否到达仿真结束时间" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="305" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="XH-hfQVk7WOKMJRXi7Rm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XH-hfQVk7WOKMJRXi7Rm-8" target="XH-hfQVk7WOKMJRXi7Rm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XH-hfQVk7WOKMJRXi7Rm-8" value="进行图像绘制和数据保存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="280" width="95" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="XH-hfQVk7WOKMJRXi7Rm-10" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH-hfQVk7WOKMJRXi7Rm-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="290" width="72.5" height="38.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
