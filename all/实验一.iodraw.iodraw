@@ -16,8 +16,8 @@
         <mxCell id="XH-hfQVk7WOKMJRXi7Rm-1" value="打开缓存文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XH-hfQVk7WOKMJRXi7Rm-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="330" width="60" height="30" as="geometry" />
+        <mxCell id="XH-hfQVk7WOKMJRXi7Rm-4" value="仿真初始化设置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="330" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
