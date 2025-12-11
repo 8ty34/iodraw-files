@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4kpYN1uw3qpm4cGTv2f7-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="710" y="310" width="100" height="20" as="geometry" />
+          <mxGeometry x="590" y="300" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4kpYN1uw3qpm4cGTv2f7-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;" vertex="1" parent="1">
           <mxGeometry x="430" y="230" width="100" height="14" as="geometry" />
         </mxCell>
         <mxCell id="4kpYN1uw3qpm4cGTv2f7-3" value="" style="pointerEvents=1;fillColor=strokeColor;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.diodes.diode;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4kpYN1uw3qpm4cGTv2f7-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.mosfet_ic_n;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="95" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
